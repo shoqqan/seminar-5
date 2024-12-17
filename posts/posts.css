@@ -1,0 +1,8 @@
+.post{
+    border: 1px solid gray;
+}
+
+.main_content{
+    overflow-y: scroll;
+    height: 100%;
+}
